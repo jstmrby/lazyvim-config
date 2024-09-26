@@ -6,3 +6,5 @@ vim.opt.clipboard = ""
 vim.opt.colorcolumn = "80,120"
 
 vim.opt.scrolloff = 8
+
+-- vim.lsp.set_log_level("debug")
