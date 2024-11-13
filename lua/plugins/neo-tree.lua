@@ -21,6 +21,7 @@ return {
             show_path = "relative",
           },
         },
+        ["P"] = { "toggle_preview", config = { use_float = true } },
       },
     },
   },
