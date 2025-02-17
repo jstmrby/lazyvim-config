@@ -64,6 +64,7 @@
   "render-markdown.nvim": { "branch": "main", "commit": "82184c4a3c3580a7a859b2cb7e58f16c10fd29ef" },
   "rustaceanvim": { "branch": "master", "commit": "8ece53be36515cb9e76f3d03511643636469502d" },
   "snacks.nvim": { "branch": "main", "commit": "f29c5865a8c71691b0be2311a7aa8d82caf4f4f3" },
+  "swagger-preview.nvim": { "branch": "master", "commit": "9b9bc21096890a1bd0f221a940d04dbab87a38aa" },
   "tailwindcss-colorizer-cmp.nvim": { "branch": "main", "commit": "3d3cd95e4a4135c250faf83dd5ed61b8e5502b86" },
   "telescope-fzf-native.nvim": { "branch": "main", "commit": "cf48d4dfce44e0b9a2e19a008d6ec6ea6f01a83b" },
   "telescope-terraform-doc.nvim": { "branch": "main", "commit": "28efe1f3cb2ed4c83fa69000ae8afd2f85d62826" },
