@@ -21,6 +21,16 @@ return {
           },
         },
       },
+      yamlls = {
+        capabilities = vim.lsp.protocol.make_client_capabilities(),
+        settings = {
+          yaml = {
+            format = {
+              singleQuote = true,
+            },
+          },
+        },
+      },
     },
   },
 }
