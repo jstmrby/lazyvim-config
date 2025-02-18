@@ -7,4 +7,6 @@ vim.opt.colorcolumn = "80,120"
 
 vim.opt.scrolloff = 8
 
+vim.g.snacks_animate = false
+
 -- vim.lsp.set_log_level("debug")
