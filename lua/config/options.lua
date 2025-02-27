@@ -9,4 +9,6 @@ vim.opt.scrolloff = 8
 
 vim.g.snacks_animate = false
 
+vim.g.root_spec = { "cwd", "lsp", { ".git", "lua" } }
+
 -- vim.lsp.set_log_level("debug")
