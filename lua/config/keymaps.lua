@@ -19,7 +19,7 @@ map("n", "<leader>P", '"+P', { desc = "Paste from system clipboard" })
 -- map("n", "<leader>o", "o<Esc>", { desc = "Insert blank line after cursor" })
 -- map("n", "<leader>O", "O<Esc>", { desc = "Insert blank line before cursor" })
 
-map("n", "<F11>", "3kzz", { desc = "Paste from system clipboard" })
-map("n", "<F12>", "3jzz", { desc = "Paste from system clipboard" })
+map("n", "<F9>", "3kzz", { desc = "Paste from system clipboard" })
+map("n", "<F10>", "3jzz", { desc = "Paste from system clipboard" })
 
 map("i", "<C-\\>", "<Esc>", { desc = "Exit insert mode" })
