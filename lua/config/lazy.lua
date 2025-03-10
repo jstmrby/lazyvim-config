@@ -22,7 +22,7 @@ require("lazy").setup({
       import = "lazyvim.plugins",
       opts = {
         colorscheme = function()
-          require("onedark").setup({ style = "warm", transparent = true })
+          require("onedark").setup({ style = "warm", transparent = false })
           require("onedark").load()
         end,
       },
