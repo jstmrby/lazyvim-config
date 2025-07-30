@@ -9,4 +9,17 @@ return {
       desc = "Buffer Lines",
     },
   },
+  opts = {
+    picker = {
+      matcher = {
+        frecency = true,
+      },
+      formatters = {
+        file = {
+          filename_first = true,
+          truncate = 80,
+        },
+      },
+    },
+  },
 }
