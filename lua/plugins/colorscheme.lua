@@ -1,3 +1,6 @@
+-- return {
+--   "sainnhe/sonokai",
+-- }
 return {
-  "sainnhe/sonokai",
+  "datsfilipe/vesper.nvim",
 }
